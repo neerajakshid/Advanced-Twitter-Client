@@ -50,6 +50,9 @@ Here's a walkthrough of implemented user stories:
 <IMG src="Simple Todo Walkthrough.gif"/>
 
 GIF created with [LiceCap](
+<br/>
+ <IMG src="Advanced_Twitter_Client_Walkthrough_2.gif"/>
+<br/>
 
 ## Notes
 
