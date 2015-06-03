@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter Client</string>
+    <string name="login_label">Connect to Twitter</string>
+    <string name="title_activity_timeline">Home</string>
+    <string name="title_activity_tweet">Tweet</string>
+    <string name="bLogin">Sign In</string>
+    <string name="Compose">Compose</string>
+    <string name="directMessage">Direct Message</string>
+    <string name="bClose">Close</string>
+    <string name="compose_tweet_etHint">What\'s happening?</string>
+    <string name="ivProfile">Profile</string>
+    <string name="send_tweet_label">Tweet</string>
+    <string name="max_tweet_length">140</string>
+    <string name="tvRetweets"> RETWEETS</string>
+    <string name="tvFavourites"> FAVORITES</string>
+    <string name="bTweet"> Tweet </string>
+    <string name="ivLogo"> logo</string>
+    <string name="miCharacterCount"> 140</string>
+    <string name="tvWelcomeMessage">Hello!!! Welcome to Twitter Client</string>
+    <string name="no_internet_error">Please check your internet connection</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="tvTweets">TWEETS</string>
+    <string name="tvFollowing">FOLLOWING</string>
+    <string name="tvFollowers">FOLLOWERS</string>
+    <string name="home">Home</string>
+    <string name="mentions">Mentions</string>
+    <string name="tweetsLabel">Tweets</string>
+    <string name="etSearchHint">Search Twitter</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_user">User Details</string>
+    <string name="title_activity_direct_messages">DirectMessagesActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    Search
+</resources>

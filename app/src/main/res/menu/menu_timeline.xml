@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.twitterclient.activities.TimelineActivity">
+    <item android:id="@+id/logout" android:title="@string/logout"   android:icon="@drawable/ic_logout"
+        android:orderInCategory="100" app:showAsAction="always" android:onClick="onLogout"/>
+    <item android:id="@+id/miProfile" android:title="@string/ivProfile"   android:icon="@drawable/ic_profile"
+        android:orderInCategory="98" app:showAsAction="always" android:onClick="onProfileClick"/>
+    <item android:id="@+id/compose_tweet" android:title="@string/Compose"   android:icon="@mipmap/compose_tweet"
+        android:orderInCategory="97" app:showAsAction="always" android:onClick="onComposeClick"/>
+<!--    <item android:id="@+id/directMessage" android:title="@string/directMessage"   android:icon="@drawable/ic_message"
+        android:orderInCategory="96" app:showAsAction="always" android:onClick="onDirectMessageClick"/>-->
+    <item android:id="@+id/action_search" android:orderInCategory="99" android:title="Search" android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always|collapseActionView" app:actionViewClass="android.support.v7.widget.SearchView" />
+
+</menu>
+
